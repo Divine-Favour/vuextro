@@ -1,0 +1,17 @@
+<template>
+    <div class="container">
+        <h3>Todos</h3>
+    </div>
+</template>
+
+<script>
+ import { mapGetters } from 'vuex'
+
+export default {
+    name: "Todos",
+}
+</script>
+
+<style>
+
+</style>3
